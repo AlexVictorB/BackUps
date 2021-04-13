@@ -1,7 +1,8 @@
 <h1 align="center">
   <img alt="BackUps" title="BackUps" src="https://raw.githubusercontent.com/AlexVictorB/BackUps/main/assets/icon.png" width="100px" />
+  <h2 align="center">BackUps</h2>
 </h1>
-<h2 align="center">BackUps</h2>
+
 <hr>
 
 <p align="center">
