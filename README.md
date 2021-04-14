@@ -13,14 +13,22 @@
 
 ## Projeto
 
-Software para realizar BackUps
+Software para realizar BackUps <br>
 Versão: 1.0.0
 
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Python 3.85
+- Python 3.8.5
 - PyQt5 (Interface Gráfica)
 
 ## Screenshots
+
+<h1 align="center">
+  <img alt="BackUps" title="BackUps" src="https://raw.githubusercontent.com/AlexVictorB/icons/main/backups_icons/screenshot1.png" width="350px" />
+  <img alt="BackUps" title="BackUps" src="https://raw.githubusercontent.com/AlexVictorB/icons/main/backups_icons/screenshot2.png" width="350px" />
+  <br>
+  <hr>
+  <img alt="BackUps" title="BackUps" src="https://raw.githubusercontent.com/AlexVictorB/icons/main/backups_icons/screenshot3.png" width="350px"
+</h1>
