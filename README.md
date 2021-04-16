@@ -9,7 +9,10 @@
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#download">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+<hr>
 
 ## Projeto
 
@@ -32,3 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <hr>
   <img alt="BackUps" title="BackUps" src="https://raw.githubusercontent.com/AlexVictorB/icons/main/backups_icons/screenshot3.png" width="350px"
 </h1>
+
+## Download
