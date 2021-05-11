@@ -18,11 +18,11 @@ if sys.platform == "win32":
 
 options = {"build_exe": {"includes": "atexit"}}
 
-executables = [Executable("main.py", base=base)]
+executables = [Executable("main.py", base=base, icon="assets/icon.ico")]
 
 setup(
     name="BackUps",
-    version="1.0",
+    version="1.0.1",
     description="Criador de Backups",
     options=options,
     executables=executables,
