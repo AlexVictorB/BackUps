@@ -8,7 +8,6 @@
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#configurar">Configurar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#download">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -18,7 +17,7 @@
 ## Projeto
 
 Software para realizar BackUps <br>
-Versão: 1.0.0
+Versão: 1.0.1
 
 ## Tecnologias
 
@@ -26,9 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Python 3.8.5
 - PyQt5 (Interface Gráfica)
-
-## Configurar
-
 
 ## Screenshots
 
@@ -41,3 +37,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </h1>
 
 ## Download
+  <a href="https://github.com/AlexVictorB/BackUps/raw/main/build/BackUps%201.0.1.zip">Clique a aqui e faça Download<a>
+  <br>
+  - Apenas para Windows
